@@ -2,7 +2,7 @@
 
 [![Bryans's GitHub stats](https://github-readme-stats.vercel.app/api?username=newworldorderly&count_private=true&theme=synthwave&show_icons=true&hide=stars,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=newworldorderly)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **NewWorldOrderly/newworldorderly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
