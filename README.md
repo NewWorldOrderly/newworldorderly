@@ -1,5 +1,5 @@
-<h1 align="center">Howdy 👋, I'm Bryan!</h1>
-<h3 align="center">A 21st century digital laborer in Tucson, Arizona and cyberspace.</h3>
+<h1>Howdy 👋, I'm Bryan!</h1>
+<h3>A 21st century digital laborer in Tucson, Arizona and cyberspace.</h3>
 
 - 🔭 I’m currently searching for **my next challenge**
 
