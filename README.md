@@ -1,8 +1,8 @@
 <h1>Howdy 👋, I'm Bryan!</h1>
 <h3>A 21st century digital laborer in Tucson, Arizona and cyberspace.</h3>
 
-- 🔭 I’m currently searching for **my next challenge**
-
+- ♻️ I’m currently helping brands and retailers establish circular commerce at [Arrive](https://thearriveplatform.com/)!
+  
 - 💬 Ask me about **Next.js, React.js and Algorand**
 
 - ⚡ Fun fact: **Stegosaurus had a brain the size of a walnut - only 3 centimeters long and weighing 75 grams.**
