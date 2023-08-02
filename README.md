@@ -1,7 +1,7 @@
 <h1>Howdy 👋, I'm Bryan!</h1>
-<h3>A 21st century digital laborer in Tucson, Arizona and cyberspace.</h3>
+<h3>A 21st century digital craftsman located in 🌵 Tucson, Arizona and 🌐 cyberspace.</h3>
 
-- ♻️ I’m currently helping brands and retailers establish circular commerce at [Arrive](https://thearriveplatform.com/)!
+- ♻️ I’m currently enabling retailers to establish more sustainable and brand-friendly recommerce at [Arrive](https://thearriveplatform.com/)!
   
 - 💬 Ask me about **Next.js, React.js and Algorand**
 
