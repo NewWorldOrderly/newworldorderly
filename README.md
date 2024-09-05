@@ -3,7 +3,7 @@
 
 - ♻️ I’m currently enabling retailers to establish more sustainable and brand-friendly recommerce at [Arrive](https://thearriveplatform.com/)!
   
-- 💬 Ask me about **Next.js, React.js and Algorand**
+- 💬 Ask me about **Next.js, React.js, Shopify and Algorand**
 
 - ⚡ Fun fact: **Stegosaurus had a brain the size of a walnut - only 3 centimeters long and weighing 75 grams.**
 
