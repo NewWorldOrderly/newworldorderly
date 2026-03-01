@@ -15,3 +15,4 @@
 ▀▀ █▪ ▀▀▀  ▀▀▀▀ ▀▪ ▀▀▀▀ ▀▪ ▀█▄▀▪.▀  ▀.▀▀▀ ▀▀▀▀▀•  ▀█▄▀▪.▀  ▀▀▀▀▀▀•  ▀▀▀ .▀  ▀.▀▀▀   ▀ • 
 ```
 
+Check out my [OpenClaw](https://openclaw.ai/) assistant [@BortyMcBot](https://github.com/BortyMcBot)
