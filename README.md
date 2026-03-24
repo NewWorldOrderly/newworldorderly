@@ -3,7 +3,7 @@
 
 - 🚀 I’m currently building a best-in-class shopping experience at [SKIMS](https://skims.com/)!
   
-- 💬 Ask me about **Next.js, React.js, Shopify** & **Algorand**
+- 💬 Ask me about **Shopify, React.js, Typescript** & **AI Agents**
 
 - 🌵 Fun fact: The Sonoran Desert is the most biologically diverse desert in the world, home to the iconic **saguaro cactus, which can live for over 150 years**
 
